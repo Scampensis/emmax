@@ -21,7 +21,6 @@
   </scm>
 
   <build>
-    <!-- gilt fuer alle Module -->
     <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
