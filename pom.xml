@@ -15,7 +15,7 @@
 
   <scm>
     <connection>
-      scm:svn:https://alm.ebase.dlh.de/svn_alm/svn_codebeamer/branches/MavenRestructureProposal-Droppelt/emmx-master-master/trunk
+      scm:svn:https://alm.ebase.dlh.de/svn_alm/svn_codebeamer/emmx-maven-master/trunk
     </connection>
   </scm>
 
