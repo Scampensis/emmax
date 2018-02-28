@@ -15,7 +15,7 @@
 
   <scm>
     <connection>
-      scm:svn:https://alm.ebase.dlh.de/svn_alm/svn_codebeamer/emmx-maven-master/trunk
+      scm:svn:https://alm.ebase.dlh.de/svn_alm/svn_codebeamer/emmx-maven-master/branches/emmx-maven-master-RC1
     </connection>
   </scm>
 
