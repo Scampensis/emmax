@@ -20,7 +20,14 @@
       scm:svn:https://alm.ebase.dlh.de/svn_alm/svn_codebeamer/emmx-maven-master/trunk
     </connection>
   </scm>
-
+  <dependencies>
+	<dependency>
+	  <groupId>org.projectlombok</groupId>
+	  <artifactId>lombok</artifactId>
+	  <version>1.16.20</version>
+	  <scope>provided</scope>
+    </dependency>
+  </dependencies>
   <build>
     <plugins>
       <plugin>
