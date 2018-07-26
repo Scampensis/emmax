@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.lhind.codebeamer.maven</groupId>
   <artifactId>emmx-master</artifactId>
-  <version>2.0.4-SNAPSHOT</version>
+  <version>2.0.4</version>
   <packaging>pom</packaging>
   <description>
     Maven Master for emmx-projects
@@ -17,7 +17,7 @@
 
   <scm>
     <connection>
-      scm:svn:https://alm.ebase.dlh.de/svn_alm/svn_codebeamer/emmx-maven-master/trunk
+      scm:svn:https://alm.ebase.dlh.de/svn_alm/svn_codebeamer/emmx-maven-master/tags/emmx-master-2.0.4
     </connection>
   </scm>
   <dependencies>
