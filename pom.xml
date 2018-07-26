@@ -176,7 +176,7 @@
   </build>
   <distributionManagement>
     <repository>
-      <id>EMMA-REPOS-LOCAL</id>
+      <id>EmmaArtifactory</id>
       <url>https://vmh-lsyas-coqa01-prod.lsy.fra.dlh.de/artifactory/emma-local</url>
     </repository>
   </distributionManagement>
